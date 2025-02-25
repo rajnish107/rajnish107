@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rajnish Singh Thakur!  
-🚀 **Python | Machine Learning | Data Science | TensorFlow Enthusiast**  
+🚀 **Python | Machine Learning | Data Science | TensorFlow/PyTorch/Transformers Enthusiast**  
 
-- 💡 Currently building **AI-powered recommendation systems**  
-- 🔥 Passionate about **NLP, Deep Learning, and Python**  
+- 💡 Currently building **AI-powered systems**  
+- 🔥 Passionate about **Data, NLP, Deep Learning, and Python Backend Solutions**  
 - 📫 Reach me at **rajnishsinghthakur107@gmail.com**  
 
 ## 🔥 GitHub Stats  
