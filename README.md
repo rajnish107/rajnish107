@@ -16,6 +16,9 @@
 💬 **Let’s connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajnishsinghthakur)
 
+⚡ **Motivate Yourself!**
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtu.be/EFmxPMdBqmU?si=xyOilQT0WabN8umW)
+
 <!--
 **RajnishProgrammer/RajnishProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
