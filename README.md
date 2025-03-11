@@ -5,7 +5,7 @@
 - 🔥 Passionate about **Data, NLP, Deep Learning, and Python Backend Solutions**  
 - 📫 Reach me at **rajnishsinghthakur107@gmail.com**  
 
-<--## 🔥 GitHub Stats  
+<!--## 🔥 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajnishProgrammer&show_icons=true&theme=radical)
 -->
 ## 📌 Featured Projects  
