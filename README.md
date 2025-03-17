@@ -2,7 +2,8 @@
 🚀 **Python | Machine Learning | Data Science | TensorFlow/PyTorch/Transformers Enthusiast**  
 
 - 💡 Currently building **AI-powered systems**  
-- 🔥 Passionate about **Data Preprocessing, NLP, Deep Learning, and Python Backend Solutions**  
+- 🔥 Passionate about **Data Preprocessing, NLP, Deep Learning, and Python Backend Solutions**
+- 👷‍♂️ Hands-on Experience in **Data Collection, Data Cleaning and Data Visulization** 
 - 📫 Reach me at **rajnishsinghthakur107@gmail.com**  
 
 <!--## 🔥 GitHub Stats  
