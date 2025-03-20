@@ -6,9 +6,8 @@
 - 👷‍♂️ Hands-on Experience in **Data Collection, Data Cleaning and Data Visulization** 
 - 📫 Reach me at **rajnishsinghthakur107@gmail.com**  
 
-<!--## 🔥 GitHub Stats  
+## 🔥 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajnishProgrammer&show_icons=true&theme=radical)
--->
 ## 📌 Featured Projects
 🔹 [RFM-Analysis (K-means Clustering)](https://github.com/RajnishProgrammer/Google-Colab/blob/main/online_retail_data_clustering(Customer_Behavior_Analysis).ipynb)  
 🔹 [Music Recommendation System](https://github.com/RajnishProgrammer/Google-Colab/blob/main/Music_Recommendation_System.ipynb)  
