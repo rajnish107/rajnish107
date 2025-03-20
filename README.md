@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rajnish Singh Thakur!  
 🚀 **Python | Machine Learning | Data Science | TensorFlow/PyTorch/Transformers Enthusiast**  
 
+- 💼 Open for **Work (Anywhere)**
 - 💡 Currently building **AI-powered systems**  
 - 🔥 Passionate about **Data Preprocessing, NLP, Deep Learning, and Python Backend Solutions**
 - 👷‍♂️ Hands-on Experience in **Data Collection, Data Cleaning and Data Visulization** 
