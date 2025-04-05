@@ -15,7 +15,8 @@
 🔹 [RFM-Analysis (K-means Clustering)](https://github.com/RajnishProgrammer/Google-Colab/blob/main/online_retail_data_clustering(Customer_Behavior_Analysis).ipynb)  
 🔹 [Music Recommendation System](https://github.com/RajnishProgrammer/Google-Colab/blob/main/Music_Recommendation_System.ipynb)  
 🔹 [PDF Processing API](https://github.com/RajnishProgrammer/flask-cpc#colored-page-counter--pdf-page-counter-gui-hosting-on-railway)  
-🔹 [NLP Pipeline](https://github.com/RajnishProgrammer/NLTK-Textual-Analysis)  
+🔹 [NLP Pipeline](https://github.com/RajnishProgrammer/NLTK-Textual-Analysis)
+Rajnish Singh Thakur
 
 💬 **Let’s connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajnishsinghthakur)
