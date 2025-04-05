@@ -4,7 +4,7 @@
 - 💼 Open to **Work (Anywhere)**
 - 💡 Currently building **AI-powered systems**  
 - 🔥 Passionate about **Data Preprocessing, NLP, Deep Learning, and Python Backend Solutions**
-- 👷‍♂️ Hands-on Experience in **Data Collection, Data Cleaning and Data Visulization** 
+- 👷‍♂️ Hands-on Experience in **Data Collection, Data Cleaning, Feature Engineering and Data Visulization** 
 - 📫 Reach me at **rajnishsinghthakur107@gmail.com**  
 
 <!--## 🔥 GitHub Stats  
