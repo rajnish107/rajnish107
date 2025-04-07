@@ -23,7 +23,9 @@
       <a href="https://youtu.be/EFmxPMdBqmU?si=4npVQ-O_HP6f1t2-">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="120" height="30">
       </a>   
-      📖 [A Lesson](https://www.freecodecamp.org/news/what-is-abstraction-in-coding/)
+      <a href="[https://youtu.be/EFmxPMdBqmU?si=4npVQ-O_HP6f1t2-](https://www.freecodecamp.org/news/what-is-abstraction-in-coding/)">
+          <img src="https://images.unsplash.com/photo-1494959764136-6be9eb3c261e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt='Breakthrough in Life' width="120" height="30">
+      </a>
 <!--
 **RajnishProgrammer/RajnishProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
