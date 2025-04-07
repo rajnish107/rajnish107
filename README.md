@@ -22,7 +22,7 @@
 ⚡ **Motivate Yourself!**                              
       <a href="https://youtu.be/EFmxPMdBqmU?si=4npVQ-O_HP6f1t2-">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="120" height="30">
-      </a>
+      </a>   
       📖 [A Lesson](https://www.freecodecamp.org/news/what-is-abstraction-in-coding/)
 <!--
 **RajnishProgrammer/RajnishProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
