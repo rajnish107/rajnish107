@@ -20,12 +20,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajnishsinghthakur)
 
 ⚡ **Motivate Yourself!**                              
-      <a href="https://youtu.be/EFmxPMdBqmU?si=4npVQ-O_HP6f1t2-">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="120" height="30">
-      </a>
       <a href="[https://youtu.be/EFmxPMdBqmU?si=4npVQ-O_HP6f1t2-](https://www.freecodecamp.org/news/what-is-abstraction-in-coding/)">
           <img src="https://media.istockphoto.com/id/1440753259/photo/circular-economy-to-reduce-waste-by-reusing-repairing-recycling-products-and-materials.webp?a=1&b=1&s=612x612&w=0&k=20&c=SL1LUvBewwdXpZOInlEeTt6_q9NWGHFaUFoiBU_S6Q4=" alt='Breakthrough in Life' width="120" height="45">
       </a>
+      <a href="https://youtu.be/EFmxPMdBqmU?si=4npVQ-O_HP6f1t2-">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="120" height="30">
+      </a>
+      
 <!--
 **RajnishProgrammer/RajnishProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
