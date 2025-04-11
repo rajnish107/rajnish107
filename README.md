@@ -6,7 +6,7 @@
 - 🔥 Passionate about **Data Preprocessing, NLP, Deep Learning, and Python Backend Solutions**
 - 👷‍♂️ Hands-on Experience in **Data Collection, Data Cleaning, Feature Engineering and Data Visulization** 
 - 📫 Reach me at **rajnishsinghthakur107@gmail.com**
-- good for you
+
 
 <!--🔥 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajnishProgrammer&show_icons=true&theme=radical)
