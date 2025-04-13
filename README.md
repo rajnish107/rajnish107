@@ -17,6 +17,7 @@
 🔹 [NLP Pipeline](https://github.com/RajnishProgrammer/NLTK-Textual-Analysis)
 
 💬 **Let’s connect!**  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajnishsinghthakur)
 
 ⚡ **Motivate Yourself!**                              
