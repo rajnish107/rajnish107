@@ -16,6 +16,7 @@
 🔹 [PDF Processing API](https://github.com/RajnishProgrammer/flask-cpc#colored-page-counter--pdf-page-counter-gui-hosting-on-railway)  
 🔹 [NLP Pipeline](https://github.com/RajnishProgrammer/NLTK-Textual-Analysis)
 
+---
 💬 **Let’s connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajnishsinghthakur)
