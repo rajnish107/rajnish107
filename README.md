@@ -28,9 +28,10 @@
       </a>
       <a href="https://youtu.be/EFmxPMdBqmU?si=4npVQ-O_HP6f1t2-">
           <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="120" height="45">
-      </a><a href="https://youtu.be/0fbnyS_lHW4?si=jgFzn-y6DqvP8cRT" target="_blank">
-        <img src="extension_icon.png" alt="code" width="100" height="45"/>
       </a>
+      <a href="https://youtu.be/0fbnyS_lHW4?si=jgFzn-y6DqvP8cRT" target="_blank">
+            <img src="extension_icon.png" alt="code" width="100" height="45"/>
+      </a>   
 
 <!--
 **RajnishProgrammer/RajnishProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
