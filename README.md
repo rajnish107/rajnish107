@@ -1,25 +1,49 @@
 # 👋 Hi, I'm Rajnish Singh Thakur!  
-🚀 **Python | Machine Learning | Data Science | TensorFlow/PyTorch/Transformers Enthusiast**  
+🚀 **DevOps Engineer | Cloud | Automation | CI/CD**  
 
-- 💼 Open to **Work (Anywhere)**
-- 💡 Currently building **AI-powered systems**  
-- 🔥 Passionate about **Data Preprocessing, NLP, Deep Learning, and Python Backend Solutions**
-- 👷‍♂️ Hands-on Experience in **Data Collection, Data Cleaning, Feature Engineering and Data Visulization** 
-- 📫 Reach me at **rajnishsinghthakur107@gmail.com**
-
-<!--🔥 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajnishProgrammer&show_icons=true&theme=radical)
--->
-## 📌 Featured Projects
-🔹 [RFM-Analysis (K-means Clustering)](https://github.com/RajnishProgrammer/Google-Colab/blob/main/online_retail_data_clustering(Customer_Behavior_Analysis).ipynb)  
-🔹 [Music Recommendation System](https://github.com/RajnishProgrammer/Google-Colab/blob/main/Music_Recommendation_System.ipynb)  
-🔹 [PDF Processing API](https://github.com/RajnishProgrammer/flask-cpc#colored-page-counter--pdf-page-counter-gui-hosting-on-railway)  
-🔹 [NLP Pipeline](https://github.com/RajnishProgrammer/NLTK-Textual-Analysis)
+- 💼 Open to **Work (Remote/Onsite, Anywhere)**  
+- ☁️ Skilled in **AWS | Azure | GCP | Docker | Kubernetes | Terraform | Jenkins | Ansible**  
+- 🔧 Strong in **CI/CD pipelines, Infrastructure as Code, Monitoring, and Cloud Deployments**  
+- 🛠️ Experience with **Linux Administration, Shell/Python Scripting, GitOps, and Cloud-Native Tools**  
+- 📊 Passionate about **Scalability, Reliability, and Automation in Cloud Environments**  
+- 📫 Reach me at **rajnishsinghthakur107@gmail.com**  
 
 ---
-💬 **Let’s connect!**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajnishsinghthakur)
+## 🛠️ Tech Stack & Tools
+🔹 **Cloud Platforms:** AWS, Azure, GCP  
+🔹 **Containerization:** Docker, Kubernetes, Helm  
+🔹 **CI/CD:** Jenkins, GitHub Actions, GitLab CI  
+🔹 **Infrastructure as Code (IaC):** Terraform, Ansible, CloudFormation  
+🔹 **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+🔹 **Version Control:** Git, GitHub, GitLab  
+🔹 **Scripting & Automation:** Bash, Python  
+
+---
+
+## 📌 Featured Projects  
+🔹 [AWS Infrastructure with Terraform](https://github.com/RajnishProgrammer/aws-terraform-infra) – Automated VPC, EC2, and RDS provisioning with IaC.  
+🔹 [Kubernetes Deployment](https://github.com/RajnishProgrammer/k8s-deployments) – Microservices deployed on Kubernetes with Helm charts.  
+🔹 [CI/CD with Jenkins](https://github.com/RajnishProgrammer/jenkins-pipeline) – Automated build & deployment pipeline for a containerized app.  
+🔹 [Monitoring Setup](https://github.com/RajnishProgrammer/monitoring-stack) – End-to-end monitoring with Prometheus, Grafana, and Alertmanager.  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajnishProgrammer&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RajnishProgrammer&layout=compact&theme=radical)  
+
+---
+
+## 💬 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rajnishsinghthakur)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/RajnishProgrammer)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:rajnishsinghthakur107@gmail.com)  
+
+---
+
+⚡ **Keep Automating, Keep Scaling!**
+
 
 ---
 ⚡ **Motivate Yourself!**                              
